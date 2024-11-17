@@ -1,0 +1,235 @@
+
+body{
+    margin: 10px;
+    
+}
+
+.titular h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}    
+.titular h2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.titular p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    
+}
+    
+
+li{
+    list-style: none;
+    margin-right: 25px;
+}
+
+.aqui{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+#primero{
+    font-size: 40px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.menu p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.navegacion{
+    display: flex;
+
+
+    
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+.titular{
+   font-size: 20px;
+   text-align: center;
+   margin-top: 200px;
+
+}
+
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+    font-size: 60px;
+
+}
+
+h2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-bottom: 40px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+}
+a{
+    background: rgb(47, 35, 224);
+    font-size: 15px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 2cap;
+    padding-left: 30px;
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+header{
+    background: url(../img/fondoreal.png);
+
+    
+
+    
+    
+    background-size: cover;
+}
+.contenedor{
+    max-width: 1366px;
+    
+    width: 90%;
+    margin: auto;
+}
+h3{
+    text-align: center;
+    font-size: 35px;
+    font-weight: normal;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 12px;
+    
+
+}
+.contenedorsobremi{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    
+}
+
+.contenedorsobremi video {
+    width: 500px;
+    padding-bottom: 50px;
+    
+    
+    
+    
+}
+
+section{
+    background: url(../img/fondoreal.png);
+    background-size: cover;
+
+}
+
+
+    
+
+/*aqui empieza servicios */
+.contenedorservicios{
+    display: flex;
+    flex-wrap: wrap;
+    
+   
+    
+    
+    
+}
+.botonparrafo{
+    width: 42%;
+    align-items: center;
+    text-align: justify;
+}
+.botonparrafo p {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+
+.disenoweb {
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+}
+.disenoweb video{
+    display: flex;
+    width: 250px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+    justify-content: center;
+    
+}
+.manejohtml{
+    width: 30%;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+
+    
+
+}
+.manejohtml video{
+    display: flex;
+    width: 250px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+    justify-content: center;
+}
+.mantenimiento{
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.mantenimiento video{
+    display: flex;
+    width: 250px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+}
+.contenedorservicios p{
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+}
+h4{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
